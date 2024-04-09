@@ -5,7 +5,7 @@ It fetches data from the Wikipedia API and displays the search results dynamical
 
 ## Demo
 
-You can view a live demo of the Wikipedia Search App [here](https://justwikisearch.ccbp.tech/).
+You can view a live demo of the Wikipedia Search App [here](https://uservalidation.ccbp.tech/).
 
 ## Features
 
